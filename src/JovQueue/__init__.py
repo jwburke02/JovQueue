@@ -2,8 +2,6 @@ from queue import Queue
 from threading import Thread
 import logging # for debug if needed
 
-logging.basicConfig(level=logging.DEBUG)
-
 # Queue implementation (named it JovQueue for fun!)
 class JovQueue:
     def __init__(self, thread_count, target_func):

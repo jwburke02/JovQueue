@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "JovQueue"
-version = "0.0.2"
+version = "1.0.0"
 authors = [
   { name="John Burke", email="jwburke2002@gmail.com" },
 ]
