@@ -1,4 +1,4 @@
-from JovQueue import JovQueue
+from src.JovQueue import JovQueue
 import pytest
 import time
 import threading
